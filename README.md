@@ -1,6 +1,6 @@
 # Scraping Goodfirms.co's Software company details using Python
 
-Project :https://jovian.com/tinliman21/web-scraping-project
+Check out the Jypeter Notebook here :https://jovian.com/tinliman21/web-scraping-project
 
 What is web scraping?
 
